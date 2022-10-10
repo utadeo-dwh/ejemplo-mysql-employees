@@ -32,7 +32,7 @@ Si lo desea, puede ejecutar `docker build` para crear la imagen
 docker build -t mysql-employees .
 ```
 
-## Eejcutar el contenedor
+## Ejecutar el contenedor
 
 Puede usar `ejecutar-mysql` para ejecutar el contenedor.
 
