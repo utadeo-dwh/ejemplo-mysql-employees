@@ -1,4 +1,4 @@
-FROM mysql:5.7.39
+FROM mysql:8.0.31
 
 ENV MYSQL_DATABASE employees
 
