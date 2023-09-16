@@ -46,7 +46,7 @@ sh ./ejecutar-contenedor.sh
 
 ## Acceder a la base de datos
 
-> El script expone los puertos 3306 y 33060. Cuando ejecuta el contenedor es posible conectarse a la base de datos usando cualquier programa, incluyendo [MySQL Workbench](https://www.mysql.com/products/workbench/), usando la dirección `localhost` en el puerto 3306.
+> El script expone los puertos 3306 y 33060. Cuando ejecuta el contenedor en su propia computadora es posible conectarse a la base de datos usando cualquier programa, incluyendo [MySQL Workbench](https://www.mysql.com/products/workbench/), usando la dirección `localhost` en el puerto 3306.
 
 Es posible usar el script `ejecutar-mysql` para conectarse a la base de datos.
 
